@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Dhruv-Pathak-s-workspace-ipp55n.eu-central-1.xata.sh/db/project_QuickCast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
